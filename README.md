@@ -1,4 +1,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[ScreenCapture.png]
+[![Product Name Screen Shot][product-screenshot]]
+
+[product-screenshot]: ScreenCapture.png
